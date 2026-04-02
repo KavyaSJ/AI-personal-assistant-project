@@ -1,0 +1,1 @@
+pip install openai pydantic instructor pdf2image pytesseract google-genai python-dotenv pdfplumber python-docx streamlit pandas python-docx
