@@ -68,16 +68,16 @@ ai-personal-assistant/
 
 🔐 Setup Instructions
 
-1️⃣ Clone the Repository
--git clone https://github.com/KavyaSJ/AI-personal-assistant-project.git
--cd ai-personal-assistant-project
+1️⃣ Clone the Repository  
+git clone https://github.com/KavyaSJ/AI-personal-assistant-project.git  
+cd ai-personal-assistant-project
 
-2️⃣ Install Dependencies
--pip install -r requirements.txt
+2️⃣ Install Dependencies  
+pip install -r requirements.txt
 
-3️⃣ Setup Environment Variables
--Create a .env file and add:
--GEMINI_API_KEY=your_api_key_here
+3️⃣ Setup Environment Variables  
+Create a .env file and add:  
+GEMINI_API_KEY=your_api_key_here  
 
-4️⃣ Run the Application
--streamlit run app.py
+4️⃣ Run the Application  
+streamlit run app.py
