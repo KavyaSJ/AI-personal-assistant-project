@@ -45,17 +45,17 @@ The system combines rule-based filtering with AI (Google Gemini) to provide accu
 
 ai-personal-assistant/
 │
-├── app.py                 # Main Streamlit app
-├── agent.py              # AI logic (Gemini integration)
-├── email_flow.py         # Email processing pipeline
-├── email_tool.py         # Gmail interaction functions
-├── calendar_tool.py      # Calendar integration
-├── pdf_tool.py           # PDF & DOCX text extraction
-├── rule_filter.py        # Rule-based email filtering
-├── memory.py             # Stores user decisions/history
-├── requirements.txt      # Dependencies
-├── .gitignore            # Ignored files
-└── README.md             # Project documentation
+├── app.py                 # Main Streamlit app  
+├── agent.py              # AI logic (Gemini integration)  
+├── email_flow.py         # Email processing pipeline  
+├── email_tool.py         # Gmail interaction functions  
+├── calendar_tool.py      # Calendar integration  
+├── pdf_tool.py           # PDF & DOCX text extraction  
+├── rule_filter.py        # Rule-based email filtering  
+├── memory.py             # Stores user decisions/history  
+├── requirements.txt      # Dependencies  
+├── .gitignore            # Ignored files  
+└── README.md             # Project documentation  
 
 ⚙️ Technologies Used
 
