@@ -1,0 +1,11 @@
+openai
+pydantic
+instructor
+pdf2image
+pytesseract
+google-generativeai
+python-dotenv
+pdfplumber
+python-docx
+streamlit
+pandas
