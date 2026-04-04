@@ -66,6 +66,23 @@ ai-personal-assistant/
 - python-docx (Word processing)
 - dotenv (Environment variables)
 
+🔐 Setup Credentials
+
+To run this project, you need to configure API credentials.  
+
+1️⃣ Create a .env file in the project root  
+
+Add the following:
+
+GEMINI_API_KEY=your_api_key_here  
+
+2️⃣ Download your credentials.json file from Google Cloud Console  
+Place it in the project root directory  
+
+3️⃣ Token File  
+token.json will be generated automatically after authentication  
+This file stores access tokens for future use  
+
 🔐 Setup Instructions
 
 1️⃣ Clone the Repository  
