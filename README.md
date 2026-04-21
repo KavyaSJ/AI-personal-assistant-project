@@ -99,4 +99,4 @@ GEMINI_API_KEY=your_api_key_here
 
 4️⃣ Run the Application  
 streamlit run app.py
->>>>>>> 061ccb559f01205d1d1158e8638525dffc1358c8
+
